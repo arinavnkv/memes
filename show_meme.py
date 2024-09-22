@@ -14,4 +14,5 @@ if __name__ == '__main__':
 
     print("Bag")
     print("One change")
+    print("FIX and our app work is correct")
 
